@@ -6,6 +6,6 @@
 {"nome": "Vazamento de Ramal de Agua","prazo": "24 hs","execucao": "17 hs","percentual": "86%","imagem": "iconRamal.png"},
 {"nome": "Falta de Agua Local","prazo": "24 hs","execucao": "11 hs","percentual": "86%","imagem": "iconRedeAgua.png"},
 {"nome": "Falta de Agua Geral","prazo": "24 hs","execucao": "7 hs","percentual": "74%","imagem": "iconRedeAgua.png"},
-{"nome": "Conserto de Ramal de Esgoto","prazo": "7 dias","execucao": "94 hs","percentual": "89%","imagem": "iconPV.png"},
-{"nome": "Conserto de Rede de Esgoto","prazo": "7 dias","execucao": "107 hs","percentual": "89%","imagem": "iconPV.png"}
+{"nome": "Conserto de Ramal de Esgoto","prazo": "7 dias","execucao": "4 dias","percentual": "89%","imagem": "iconPV.png"},
+{"nome": "Conserto de Rede de Esgoto","prazo": "7 dias","execucao": "4 dias","percentual": "89%","imagem": "iconPV.png"}
 ]
