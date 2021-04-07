@@ -1,11 +1,11 @@
 [
-{"nome": "Desobstrucao de Ramal","prazo": "24 hs","execucao": "13 hs","percentual": "99%","imagem": "iconCasa.png"},
-{"nome": "Desobstrucao de Rede","prazo": "24 hs","execucao": "13 hs","percentual": "98%","imagem": "iconPV.png"},
-{"nome": "Vazamento de Rede de Agua","prazo": "24 hs","execucao": "14 hs","percentual": "95%","imagem": "iconRedeAgua.png"},
-{"nome": "Vazamento de Cavalete","prazo": "24 hs","execucao": "17 hs","percentual": "98%","imagem": "iconCavalete.png"},
-{"nome": "Vazamento de Ramal de Agua","prazo": "24 hs","execucao": "17 hs","percentual": "86%","imagem": "iconRamal.png"},
-{"nome": "Falta de Agua Local","prazo": "24 hs","execucao": "11 hs","percentual": "86%","imagem": "iconRedeAgua.png"},
-{"nome": "Falta de Agua Geral","prazo": "24 hs","execucao": "7 hs","percentual": "74%","imagem": "iconRedeAgua.png"},
+{"nome": "Desobstrucao de Ramal","prazo": "24 hs","execucao": "14 hs","percentual": "99%","imagem": "iconCasa.png"},
+{"nome": "Desobstrucao de Rede","prazo": "24 hs","execucao": "12 hs","percentual": "98%","imagem": "iconPV.png"},
+{"nome": "Vazamento de Rede de Agua","prazo": "24 hs","execucao": "17 hs","percentual": "94%","imagem": "iconRedeAgua.png"},
+{"nome": "Vazamento de Cavalete","prazo": "24 hs","execucao": "18 hs","percentual": "97%","imagem": "iconCavalete.png"},
+{"nome": "Vazamento de Ramal de Agua","prazo": "24 hs","execucao": "27 hs","percentual": "86%","imagem": "iconRamal.png"},
+{"nome": "Falta de Agua Local","prazo": "24 hs","execucao": "10 hs","percentual": "87%","imagem": "iconRedeAgua.png"},
+{"nome": "Falta de Agua Geral","prazo": "24 hs","execucao": "9 hs","percentual": "76%","imagem": "iconRedeAgua.png"},
 {"nome": "Conserto de Ramal de Esgoto","prazo": "7 dias","execucao": "4 dias","percentual": "89%","imagem": "iconPV.png"},
-{"nome": "Conserto de Rede de Esgoto","prazo": "7 dias","execucao": "4 dias","percentual": "89%","imagem": "iconPV.png"}
+{"nome": "Conserto de Rede de Esgoto","prazo": "7 dias","execucao": "4 dias","percentual": "88%","imagem": "iconPV.png"}
 ]
